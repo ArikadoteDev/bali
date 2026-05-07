@@ -1,14 +1,24 @@
-# Bali Squad Website - Arabic/English
+# Bali Squad Website
 
-This is the full website project with an Arabic / English toggle button in the navbar.
+Full Vite + React + Tailwind website.
 
-## Run locally
+## Upload to GitHub
 
-```bash
-npm install
-npm run dev
-```
+Upload/replace these files at the root of your GitHub repository:
 
-## Deploy to Vercel
+- package.json
+- index.html
+- vite.config.js
+- tailwind.config.js
+- postcss.config.js
+- src/main.jsx
+- src/App.jsx
+- src/style.css
 
-Upload these files to GitHub, replacing your current project files. Vercel will redeploy automatically.
+## Vercel
+
+Framework: Vite  
+Build Command: npm run build  
+Output Directory: dist
+
+The website includes an Arabic / English button in the navbar.
