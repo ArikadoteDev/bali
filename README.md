@@ -1,4 +1,6 @@
-# Bali Squad Website
+# Bali Squad Website - Bilingual
+
+Arabic/English Vite + React + Tailwind website.
 
 ## Run locally
 
@@ -7,12 +9,11 @@ npm install
 npm run dev
 ```
 
-## Deploy to Vercel
+## Deploy
 
-1. Upload this folder to GitHub.
-2. In Vercel, import the GitHub repository.
-3. Keep the default Vite settings:
-   - Framework Preset: Vite
-   - Build Command: npm run build
-   - Output Directory: dist
-4. Click Deploy.
+Upload these files to GitHub, then import the repo in Vercel.
+
+Settings:
+- Framework: Vite
+- Build command: npm run build
+- Output directory: dist
